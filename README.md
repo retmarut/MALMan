@@ -7,7 +7,7 @@ Get the source code.
 
     git clone git://github.com/voidwarranties/MALMan.git
 
-Install vagrant, virtualbox and ansible.
+Install vagrant (2.0.3+), vgrant-vbguest plugin, virtualbox and ansible.
 You can now create a development environment in a virtual machine by executing `vagrant up`.
 
     cd MALMan
